@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "c2fd80c1d2a3ef8803df03fdadcaf5ebdbaac186",
+    "name": "Default theme",
+    "selectedTokenSets": {
+      "Core": "source",
+      "Plum": "enabled",
+      "Plum AA": "enabled",
+      "playground": "enabled",
+      "Semantic": "enabled",
+      "Components/Actions": "disabled",
+      "Components/Inputs": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "77ecc039a17840f18544c40c5d5669403b1dabad",
+    "name": "Alt theme",
+    "selectedTokenSets": {
+      "Core": "source",
+      "Plum": "disabled",
+      "Plum AA": "disabled",
+      "playground": "enabled",
+      "Semantic": "disabled",
+      "Components/Actions": "disabled",
+      "Components/Inputs": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

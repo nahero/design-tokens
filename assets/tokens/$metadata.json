@@ -5,6 +5,7 @@
     "Plum AA",
     "playground",
     "Semantic",
-    "Component"
+    "Components/Actions",
+    "Components/Inputs"
   ]
 }
