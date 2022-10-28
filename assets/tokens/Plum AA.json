@@ -1,0 +1,48 @@
+{
+  "Plum AA": {
+    "10": {
+      "value": "#201C38",
+      "type": "color"
+    },
+    "20": {
+      "value": "#2F2A5B",
+      "type": "color"
+    },
+    "30": {
+      "value": "#413C8A",
+      "type": "color"
+    },
+    "40": {
+      "value": "#534EBC",
+      "type": "color"
+    },
+    "50": {
+      "value": "#635FEA",
+      "type": "color"
+    },
+    "60": {
+      "value": "#887DFF",
+      "type": "color"
+    },
+    "70": {
+      "value": "#AFA0FF",
+      "type": "color"
+    },
+    "80": {
+      "value": "#CCBFFF",
+      "type": "color"
+    },
+    "90": {
+      "value": "#E6DEFF",
+      "type": "color"
+    },
+    "95": {
+      "value": "#F3EEFF",
+      "type": "color"
+    },
+    "97": {
+      "value": "#F8F5FF",
+      "type": "color"
+    }
+  }
+}
