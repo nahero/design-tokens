@@ -1,5 +1,12 @@
 {
   "tokenSetOrder": [
-    "Core/Typography"
+    "Core/Colors",
+    "Core/Plum",
+    "Core/Plum AA",
+    "Core/Typography",
+    "playground",
+    "Semantic/Colors",
+    "Components/Actions",
+    "Components/Inputs"
   ]
 }
